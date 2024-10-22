@@ -94,10 +94,6 @@ spec:
         env:
         - name: PORT
           value: "50051"
-<<<<<<< HEAD
-          
-=======
->>>>>>> 267b7be74d7870481abd81e64f391ca17b4cf7ba
 ---
 apiVersion: v1
 kind: Service
